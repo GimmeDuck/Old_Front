@@ -24,9 +24,9 @@
             top:95%;
             transform: translate(-50%, -50%);
             border-width: 0;
-            background-color: gray;
+            background-color: lightgray;
             border-radius: 3px;
-            color: lightgray;
+            color: white;
         }
     
 

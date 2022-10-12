@@ -7,7 +7,7 @@ const Modal = ({ modalClose }) => {
       <div
         style={{
           width: "70%",
-          backgroundColor: "lightgray",
+          backgroundColor: "white",
           borderRadius: "5px",
           height: "600px",
           position: "absolute",
