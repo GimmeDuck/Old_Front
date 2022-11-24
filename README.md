@@ -1,2 +1,2 @@
-# RANDOM_practice
-랜덤 이미지 생성
+# Old_Front
+UI 변경 이전의 Frontend 코드
